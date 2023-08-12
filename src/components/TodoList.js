@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import "./TodoList.css";
 import apiService from "../services/apiService";
-import AddEditTodoModal from "./AddEditTodoModal";
-import DeleteTodoModal from "./DeleteTodoModal";
+import AddEditTodoModal from "./modals/AddEditTodoModal";
+import DeleteTodoModal from "./modals/DeleteTodoModal";
 
 const TodoList = ({ setIsLogedIn, isLogin }) => {
   const [todos, setTodos] = useState([]);

@@ -1,7 +1,7 @@
 import axios from "axios";
 
-//const BASE_URL = "https://localhost:7044/api";
-const BASE_URL = "https://justintasksapi.azurewebsites.net/api";
+const BASE_URL = "https://localhost:7044/api";
+//const BASE_URL = "https://justintasksapi.azurewebsites.net/api";
 const apiService = {
   register: async (registrationData) => {
     try {

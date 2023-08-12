@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import Modal from "./Modal";
-import LoginForm from "./LoginForm";
-import RegisterForm from "./RegisterForm";
+import Modal from "../modals/Modal";
+import LoginForm from "../forms/LoginForm";
+import RegisterForm from "../forms/RegisterForm";
 import "./MenuBar.css";
 
 export default function MenuBar({ setIsLogedIn, isLogin }) {

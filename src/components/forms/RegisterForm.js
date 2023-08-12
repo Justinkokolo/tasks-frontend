@@ -1,7 +1,7 @@
 // RegisterForm.js
 import React from "react";
 import { Formik } from "formik";
-import apiService from "../services/apiService";
+import apiService from "../../services/apiService";
 import "./RegisterForm.css";
 
 export default function RegisterForm({ closeModals, setIsLogedIn, isLogin }) {
