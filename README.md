@@ -4,8 +4,6 @@ This is a simple Todo App built using React that allows users to manage their ta
 
 ## Resources
 
-- [Link to the website](https://black-ground-0ee961b10.3.azurestaticapps.net/)
-
 ## Features
 
 - User authentication (login and registration)
