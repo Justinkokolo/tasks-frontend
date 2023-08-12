@@ -2,6 +2,10 @@
 
 This is a simple Todo App built using React that allows users to manage their tasks. The app includes features such as user authentication, registration, creating, updating, and deleting tasks.
 
+## Resources
+
+- [Link to the website](https://kind-pond-0d452dc10.3.azurestaticapps.net/)
+
 ## Features
 
 - User authentication (login and registration)
