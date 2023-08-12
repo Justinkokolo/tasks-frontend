@@ -4,7 +4,7 @@ This is a simple Todo App built using React that allows users to manage their ta
 
 ## Resources
 
-- [Link to the website](https://kind-pond-0d452dc10.3.azurestaticapps.net/)
+- [Link to the website](https://black-ground-0ee961b10.3.azurestaticapps.net/)
 
 ## Features
 
